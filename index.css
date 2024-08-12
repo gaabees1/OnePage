@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-size: 15px;
+    padding: 100px;
+}
+
+a{ 
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    font-size: 25px;
+    padding: 0px 150px;
+}
+.fonte{
+    color: cornflowerblue;
+    font-size: 50px;
+}
+img{
+    width: 250px;
+}
+
+.separa{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: underline;
+    color: blue;
+}
+    
